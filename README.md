@@ -9,7 +9,7 @@ This augmented reality iOS app will allow users to measure items.
 - To erase measurement, tap the 🗑 (dustbin) button
 
 ## Demo:
-<a href="https://media.giphy.com/media/LpjPUVPcRia1mlvU35/giphy.gif"><img src="https://media.giphy.com/media/LpjPUVPcRia1mlvU35/giphy.gif" title="measurement"/></a>
+![](measurement.gif)
 
 ## Technology Used:
 - Swift
